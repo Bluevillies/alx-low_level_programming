@@ -1,0 +1,1 @@
+At ALX we are currently learning about arithmetic operators, declaring variables and loops. This is all in C language
